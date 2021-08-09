@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://error-page.surge.sh}">
+    <a href="https://error-page.surge.sh">
       Demo
     </a>
     <span> | </span>
